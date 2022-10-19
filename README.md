@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifvora&label=Profile%20views&color=0e75b6&style=flat" alt="asifvora" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifvora" alt="asifvora" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/007_dark_shadow" target="blank"><img src="https://img.shields.io/twitter/follow/007_dark_shadow?logo=twitter&style=for-the-badge" alt="007_dark_shadow" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Web3**
