@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Asif Vora</h1>
+<h1>Hi 👋, I'm Asif Vora</h1>
 
-<h3 align="center">I'm JavaScript Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / React Native / Redux / Mobx / Vue / Angular7 / TypeScript and some other cool libraries and frameworks.</h3>
+<h4>I'm JavaScript Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / React Native / Redux / Mobx / Vue / Angular7 / TypeScript and some other cool libraries and frameworks.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifvora&label=Profile%20views&color=0e75b6&style=flat" alt="asifvora" /> </p>
 
@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifvora&show_icons=true&locale=en&layout=compact" alt="asifvora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifvora&show_icons=true&locale=en" alt="asifvora" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifvora&show_icons=true&locale=en" alt="asifvora" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifvora&" alt="asifvora" /></p>
 
